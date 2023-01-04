@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-[![Minhas habilidades]Skills=(https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg)
+Skills=[![Minhas habilidades](https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg)
 
   
 <div align="center"></div>
