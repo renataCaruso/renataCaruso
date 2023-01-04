@@ -1,5 +1,5 @@
 ### Hi guys 👋
-
+[![Minhas habilidades](https://skills.thijs.gg/icons?i=js,html,css,wasm ) ](https://skills.thijs.gg)
 <div align="center">
    <img height="380em" src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gif"/>
 </div>
