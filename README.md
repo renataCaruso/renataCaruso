@@ -7,4 +7,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataCaruso&layout=compact&langs_count=7&theme=nightowl"/>
 </div> 
 
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg)
+<!--  [![Minhas habilidades](https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg) -->
