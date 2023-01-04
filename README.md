@@ -1,8 +1,7 @@
 ### Hi guys 👋
-![Snake animation](https://github.com/renataCaruso/renataCaruso/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <img height="380em" src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gif"/>
 </div>
 <div align="center">
 <a href="https://github.com/renataCaruso">
