@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="40px"> I'm Renata 🤓</h1>
-
-### Lately I've been working with ReactJs and VueJs technologies in a more direct way, and I've also had some experiences using the Java and C# languages. 
-
-
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
@@ -32,7 +27,8 @@
 <img alt="Renata-Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Renata-Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Renata-GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-# Social Medias:
+<img alt="Renata-Java"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   # Social Medias:
   
 <a href="https://dev.to/patrickjabba" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 ![](https://komarev.com/ghpvc/?username=patrick-jabba&style=for-the-badge)
