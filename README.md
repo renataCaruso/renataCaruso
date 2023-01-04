@@ -1,7 +1,7 @@
 ### Hi guys 👋
-
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg)
 <div align="center">
-   [![Minhas habilidades](https://skills.thijs.gg/icons?i=java,postgres,nodejs,js,html,css,react,bootstrap,figma ) ](https://skills.thijs.gg)
+  
 </div>
 <div align="center">
 <a href="https://github.com/renataCaruso">
