@@ -7,6 +7,8 @@
 <a href="https://github.com/renataCaruso">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renataCaruso&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataCaruso&layout=compact&langs_count=7&theme=nightowl"/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renataCaruso)](https://github.com/renataCaruso/github-readme-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=renataCaruso" />
+   
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renataCaruso)](https://github.com/renataCaruso/github-readme-stats)
 </div> 
   
